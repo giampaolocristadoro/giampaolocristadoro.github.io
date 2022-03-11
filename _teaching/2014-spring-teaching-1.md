@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Meccanica Superiore"
 collection: teaching
-type: "Undergraduate course"
+type: "Laurea Magistrale in Matematica"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Dipartimento di Matematica e Applicazioni, Università di Milano - Bicocca"
 date: 2014-01-01
 location: "City, Country"
 ---
