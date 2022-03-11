@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Giampaolo Cristadoro"
-  avatar           : "profile.png"
+  avatar           : "gpc.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Università Milano - Bicocca, Milano, Italy"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-lNxulgAAAAJ&hl=it&authuser=1"
