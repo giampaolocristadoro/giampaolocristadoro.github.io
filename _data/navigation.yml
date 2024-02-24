@@ -13,7 +13,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+  #  url: /cv/
+    url: /file/cv-cristadoro-12:02:2024-itaBicocca.pdf
     
   #- title: "Guide"
   #  url: /markdown/
