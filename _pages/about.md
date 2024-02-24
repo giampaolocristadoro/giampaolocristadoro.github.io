@@ -13,6 +13,6 @@ redirect_from:
 
 Dynamical systems, probability, information theory and their applications
 
-![illustrations](: .align-down /images/AI-Milano2.png)
+![illustrations](/images/AI-Milano2.png)
 ------
 
