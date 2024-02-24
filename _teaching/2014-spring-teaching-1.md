@@ -1,7 +1,7 @@
 ---
 title: "Anno Accademico 2023-2024"
 collection: teaching
-type: " "
+type: "teaching "
 permalink: /teaching/2014-spring-teaching-1
 venue: " Università di Milano - Bicocca"
 date: 
