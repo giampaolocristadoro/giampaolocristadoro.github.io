@@ -86,8 +86,8 @@ author:
   location         : "Milano (IT)"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=-lNxulgAAAAJ&hl=it&authuser=1"
-  email            :
+  googlescholar    :  # "https://scholar.google.com/citations?user=-lNxulgAAAAJ&hl=it&authuser=1"
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "giampaolocristadoro"
+  github           : #"giampaolocristadoro"
   google_plus      :
   keybase          :
   instagram        :
