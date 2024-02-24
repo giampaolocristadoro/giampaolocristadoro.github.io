@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-Dynamical systems, probability, information theoory and applications
+Dynamical systems, probability, information theory and applications
 
 
 ------
