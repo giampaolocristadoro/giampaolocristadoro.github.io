@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Dynamical systems, probability and applications
+Dynamical systems, probability, information theoory and applications
 
 
 ------
