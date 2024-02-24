@@ -1,20 +1,18 @@
 ---
-title: "Meccanica Superiore"
+title: "Anno Accademico 2023-2024"
 collection: teaching
-type: "Laurea Magistrale in Matematica"
+type: " "
 permalink: /teaching/2014-spring-teaching-1
-venue: "Dipartimento di Matematica e Applicazioni, Università di Milano - Bicocca"
-date: 2022-03-01
+venue: " Università di Milano - Bicocca"
+date: 
 location: "Milano, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Meccanica Classica
 ======
+Corso di Laurea in Fisica
 
-Heading 2
+Sistemi dinamici, informazione, complessità 
 ======
-
-Heading 3
-======
+Corso di Laurea Magistrale in Matematica
