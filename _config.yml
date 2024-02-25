@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giampaolo Cristadoro"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Giampaolo Cristadoro"
 description              : &description "Associate Professor of Mathematical Physics at University of Milano - Bicocca, Italy"
