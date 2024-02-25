@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research interests"
+title: "Giampaolo Cristadoro"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
