@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home page"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "----"
 description              : &description "Associate Professor of Mathematical Physics at University of Milano - Bicocca, Italy"
 url                      : https://giampaolocristadoro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
